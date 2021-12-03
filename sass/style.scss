@@ -129,3 +129,24 @@ body {
         margin: 0 10px 0 0;
     }
 }
+
+.list.tags li {
+    display: inline-flex;
+    margin: 4px;
+}
+
+.tag-size-3 {
+
+    font-size: 18px;
+}
+
+.tag-size-4 {
+
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.tag-size-5 {
+    font-size: 22px;
+    font-weight: bold;
+}
